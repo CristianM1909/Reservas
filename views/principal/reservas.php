@@ -104,6 +104,7 @@ include_once 'views/template/portada.php'; ?>
 
 <?php echo include_once 'views/template/footer-principal.php'; ?>
 <script src="<?php echo RUTA_PRINCIPAL .  'assets/principal/js/pages/reservas.js' ?>"></script>
+<script src="<?php echo RUTA_PRINCIPAL .  'assets/principal/js/pages/disponibilidad.js' ?>"></script>
 </body>
 
 </html>

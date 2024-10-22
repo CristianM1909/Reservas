@@ -863,7 +863,10 @@
 	
 
 <?php } ?>
+	<script src="<?php echo RUTA_PRINCIPAL .  'assets/principal/js/pages/disponibilidad.js' ?>"></script>
 	<script src="<?php echo RUTA_PRINCIPAL .  'assets/principal/js/pages/index.js' ?>"></script>
+
+
 
 </body>
 
