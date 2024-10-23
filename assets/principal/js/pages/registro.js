@@ -1,4 +1,5 @@
 const frm = document.querySelector("#formulario");
+const terminos = document.querySelector("#chb2");
 document.addEventListener("DOMContentLoaded", function () {
   frm.addEventListener("submit", function (e) {
     e.preventDefault();
@@ -11,17 +12,30 @@ document.addEventListener("DOMContentLoaded", function () {
       frm.confirmar.value == ""
     ) {
       alertaSW("TODOS LOS CAMPOS SON REQUERIDOS", "warning");
+    } else if (!terminos.checked) {
+      alertaSW("DEBE ACEPTAR LOS TERMINOS Y CONDICIONES", "warning");
     } else {
-      const http = new XMLHttpRequest();
-      const url = base_url + 'registro/crear';
+      if (frm.clave.value == frm.confirmar.value) {
+        const http = new XMLHttpRequest();
+        const url = base_url + "registro/crear";
 
-      http.open("POST", url, true);
-      http.send(new FormData(frm));
-      http.onreadystatechange = function () {
-        if (this.readyState == 4 && this.status == 200) {
-          console.log(this.responseText);
-        }
-      };
+        http.open("POST", url, true);
+        http.send(new FormData(frm));
+        http.onreadystatechange = function () {
+          if (this.readyState == 4 && this.status == 200) {
+            console.log(this.responseText);
+            const res = JSON.parse(this.responseText);
+            alertaSW(res.msg, res.tipo);
+            if (res.tipo == "success") {
+              frm.reset();
+              //MANDAR A OTRA RUTA
+            }
+          }
+        };
+      } else {
+      alertaSW("LAS CONTRASEÑAS NO COINCIDEN ", "warning");
+
+      }
     }
   });
 });

@@ -18,7 +18,7 @@ if ($isAdmin && (count($array) == 1
     $controller = 'Admin';
     $metodo = 'login';
 } else {
-    //VALIDAR SI NOS ENCONTRAMOS EN LA RUTA PRINCIP
+    //VALIDAR SI NOS ENCONTRAMOS EN LA RUTA PRINCIPAL
     $indiceUrl = ($isAdmin) ? 1 : 0 ;
     $controller = ucfirst($array[$indiceUrl]);
     $metodo = 'index';

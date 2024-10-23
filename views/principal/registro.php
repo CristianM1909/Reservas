@@ -15,37 +15,37 @@ include_once 'views/template/portada.php'; ?>
                         <div class="row">
                             <div class="col-md-12 col-sm-12">
                                 <div class="form-group">
-                                    <input class="form-control" type="text" name="nombre" placeholder="Nombre">
+                                    <input class="form-control" type="text" name="nombre" placeholder="Nombre" require>
                                 </div>
                             </div>
                             <div class="col-md-12 col-sm-12 ">
                                 <div class="form-group">
-                                    <input class="form-control" type="text" name="apellido" placeholder="Apellidos">
+                                    <input class="form-control" type="text" name="apellido" placeholder="Apellidos" require>
                                 </div>
                             </div>
                             <div class="col-md-12 col-sm-12">
                                 <div class="form-group">
-                                    <input class="form-control" type="text" name="usuario" placeholder="Usuario">
+                                    <input class="form-control" type="text" name="usuario" placeholder="Usuario" require>
                                 </div>
                             </div>
                             <div class="col-md-12 col-sm-12">
                                 <div class="form-group">
-                                    <input class="form-control" type="email" name="correo" placeholder="Correo Electronico">
+                                    <input class="form-control" type="email" name="correo" placeholder="Correo Electronico" require>
                                 </div>
                             </div>
                             <div class="col-md-12 col-sm-12">
                                 <div class="form-group">
-                                    <input class="form-control" type="text" name="clave" placeholder="Contraseña">
+                                    <input class="form-control" type="password" name="clave" placeholder="Contraseña" require>
                                 </div>
                             </div>
                             <div class="col-md-12 col-sm-12 ">
                                 <div class="form-group">
-                                    <input class="form-control" type="text" name="confirmar" placeholder="Confirmar Contraseña">
+                                    <input class="form-control" type="password" name="confirmar" placeholder="Confirmar Contraseña" require>
                                 </div>
                             </div>
                             <div class="col-md-12 col-sm-12 col-xs-12 form-condition">
                                 <div class="agree-label">
-                                    <input type="checkbox" id="chb2">
+                                    <input type="checkbox" id="chb2" name="chb2" require>
                                     <label for="chb2">
                                         Estoy de Acuerdo con los
                                         <a href="#">Terminos y condiciones</a>
