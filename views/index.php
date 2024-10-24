@@ -481,7 +481,7 @@
                 <div class="single-booking">
                     <a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop-5">
                         <i class="book-icon flaticon-coffee-cup-1"></i>
-                        <span class="booking-title">Desayuno Gratis</span>
+                        <span class="booking-title">Desayunos Gratis grandes</span>
                         <h3>Desayuno incluido</h3>
                     </a>
 
