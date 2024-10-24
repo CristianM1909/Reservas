@@ -118,23 +118,23 @@
 <section class="explore-area pt-170 pb-100">
 	<div class="container">
 		<div class="section-title">
-			<span>Explore</span>
-			<h2>We are cool to give you pleasure</h2>
+			<span>Explorar</span>
+			<h2>Nos encanta brindarte placer</h2>
 		</div>
 		<div class="row align-items-center">
 			<div class="col-lg-6">
 				<div class="explore-img">
-					<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/explore-img.png" alt="Image">
+					<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/explore-img.jpg" alt="Imagen">
 				</div>
 			</div>
 			<div class="col-lg-6">
 				<div class="explore-content ml-30">
-					<h2>As much as comfort want to get from us everything</h2>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eveniet reprehenderit ratione ad perspiciatis repudiandae iste ipsam temporibus sit quo! Incidunt, necessitatibus fugiat ut dignissimos pariatur odit natus ipsum! Obcaecati iste ipsam temporibus sit quo! Incidunt, necessitatibus Obcaecati iste ipsam temporibus Lorem ipsum dolor sit amet consectetur.</p>
+					<h2>Todo el confort que quieras obtener, lo tenemos para ti</h2>
+					<p>Nuestro objetivo es ofrecerte una experiencia de lujo y confort. Disfruta de servicios exclusivos que harán de tu estancia una experiencia inolvidable.</p>
 
-					<p>Konin wansis dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut nim ad minim veniam, quis nostrud exercitation. dolor sit amet, consectetur adipisicing quis nostrud exercitation Lorem ipsum dolor sit amet consectetur.</p>
+					<p>Nos esforzamos por brindarte lo mejor en hospitalidad. Desde habitaciones cómodas hasta servicios personalizados, estamos aquí para hacer tu estadía lo más placentera posible.</p>
 					<a href="about.html" class="default-btn">
-						explore More
+						Explorar Más
 						<i class="flaticon-right"></i>
 					</a>
 				</div>
@@ -142,22 +142,22 @@
 		</div>
 	</div>
 </section>
-<!-- End Explore Area -->
+<!-- Fin del área de exploración -->
 
-<!-- End Facilities Area -->
+<!-- Fin del área de instalaciones -->
 <section class="facilities-area pb-60">
 	<div class="container">
 		<div class="section-title">
-			<span>Facilities</span>
-			<h2>Giving entirely awesome</h2>
+			<span>Instalaciones</span>
+			<h2>Ofreciendo lo mejor</h2>
 		</div>
 		<div class="row">
 			<div class="col-lg-3 col-sm-6">
 				<div class="single-facilities-wrap">
 					<div class="single-facilities">
 						<i class="facilities-icon flaticon-pickup"></i>
-						<h3>Pick Up & Drop​</h3>
-						<p>parkn ipsum dolor sit amet, consectetur adiing elit sed do eiu</p>
+						<h3>Transporte y Traslados</h3>
+						<p>Servicio de transporte disponible para tu comodidad.</p>
 						<a href="service-details.html" class="icon-btn">
 							<i class="flaticon-right"></i>
 						</a>
@@ -168,8 +168,8 @@
 				<div class="single-facilities-wrap">
 					<div class="single-facilities">
 						<i class="facilities-icon flaticon-coffee-cup"></i>
-						<h3>Welcome Drink​​​​</h3>
-						<p>parkn ipsum dolor sit amet, consectetur adiing elit sed do eiu</p>
+						<h3>Bebida de Bienvenida</h3>
+						<p>Te recibimos con una bebida refrescante a tu llegada.</p>
 						<a href="service-details.html" class="icon-btn">
 							<i class="flaticon-right"></i>
 						</a>
@@ -180,8 +180,8 @@
 				<div class="single-facilities-wrap">
 					<div class="single-facilities">
 						<i class="facilities-icon flaticon-garage"></i>
-						<h3>​​Parking Space</h3>
-						<p>parkn ipsum dolor sit amet, consectetur adiing elit sed do eiu</p>
+						<h3>Estacionamiento</h3>
+						<p>Amplio espacio de estacionamiento disponible.</p>
 						<a href="service-details.html" class="icon-btn">
 							<i class="flaticon-right"></i>
 						</a>
@@ -192,8 +192,8 @@
 				<div class="single-facilities-wrap">
 					<div class="single-facilities">
 						<i class="facilities-icon flaticon-water"></i>
-						<h3>Cold Hot & Water​</h3>
-						<p>parkn ipsum dolor sit amet, consectetur adiing elit sed do eiu</p>
+						<h3>Agua Fría y Caliente</h3>
+						<p>Disfruta de agua fría y caliente en todo momento.</p>
 						<a href="service-details.html" class="icon-btn">
 							<i class="flaticon-right"></i>
 						</a>
@@ -203,148 +203,67 @@
 		</div>
 	</div>
 </section>
-<!-- End Facilities Area -->
+<!-- Fin del área de instalaciones -->
 
-<!-- End Incredible Area -->
+<!-- Inicio del área increíble -->
 <section class="incredible-area ptb-140 jarallax">
 	<div class="container">
 		<div class="incredible-content">
-			<a href="https://www.youtube.com/watch?v=bk7McNUjWgw" class="video-btn popup-youtube">
+			<a href="https://www.youtube.com/watch?v=mJZCJg4AQwA" class="video-btn popup-youtube">
 				<i class="flaticon-play-button"></i>
 			</a>
-			<h2><span>Incredible!</span> Are you coming today</h2>
-			<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores sed obcaecati, magni excepturi, temporibus vero, inventore tenetur assumenda natus sequi labore. Voluptates eligendi dolores quod temporibus aperiam adipisci, quasi reprehenderit. Voluptates eligendi dolores quod temporibus.</p>
+			<h2><span>¡Increíble!</span> ¿Vienes hoy?</h2>
+			<p>Ven y disfruta de una experiencia única y especial. Te ofrecemos una estadía llena de confort, lujo y un servicio excepcional que hará que tu visita sea inolvidable.</p>
 			<a href="#" class="default-btn">
-				Join Us Today
+				Únete Hoy
 				<i class="flaticon-right"></i>
 			</a>
 		</div>
 	</div>
 	<div class="white-shape">
-		<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/shape/white-shape-top.png" alt="Image">
-		<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/shape/white-shape-bottom.png" alt="Image">
+		<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/shape/white-shape-top.png" alt="Imagen">
+		<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/shape/white-shape-bottom.png" alt="Imagen">
 	</div>
 </section>
-<!-- End Incredible Area -->
+<!-- Fin del área increíble -->
 
-<!-- Start Our Rooms Area -->
-<section class="our-rooms-area pt-60 pb-100">
-	<div class="container">
-		<div class="section-title">
-			<span>Our Rooms</span>
-			<h2>Fascinating rooms & suites</h2>
-		</div>
-		<div class="tab industries-list-tab">
-			<div class="row">
-				<div class="col-lg-4">
-					<ul class="tabs">
-						<li class="single-rooms">
-							<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/rooms/button-img-1.jpg" alt="Image">
-							<div class="room-content">
-								<h3>Double Room</h3>
-								<span>From $75.9/night</span>
-							</div>
-						</li>
-						<li class="single-rooms">
-							<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/rooms/button-img-2.jpg" alt="Image">
-							<div class="room-content">
-								<h3>Luxury Room</h3>
-								<span>From $50.9/night</span>
-							</div>
-						</li>
-						<li class="single-rooms">
-							<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/rooms/button-img-3.jpg" alt="Image">
-							<div class="room-content">
-								<h3>Best Room</h3>
-								<span>From $70.9/night</span>
-							</div>
-						</li>
-						<li class="single-rooms">
-							<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/rooms/button-img-4.jpg" alt="Image">
-							<div class="room-content">
-								<h3>Classic Room</h3>
-								<span>From $95.9/night</span>
-							</div>
-						</li>
-						<li class="single-rooms">
-							<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/rooms/button-img-5.jpg" alt="Image">
-							<div class="room-content">
-								<h3>Budget Room</h3>
-								<span>From $95.9/night</span>
-							</div>
-						</li>
-					</ul>
-				</div>
-				<div class="col-lg-8">
-					<div class="tab_content">
-						<div class="tabs_item">
-							<div class="our-rooms-single-img room-bg-1">
-							</div>
-							<span class="preview-item">The Preview Of Double Room</span>
-						</div>
-						<div class="tabs_item">
-							<div class="our-rooms-single-img room-bg-2">
-							</div>
-							<span class="preview-item">The Preview Of Luxury Room</span>
-						</div>
-						<div class="tabs_item">
-							<div class="our-rooms-single-img room-bg-3">
-							</div>
-							<span class="preview-item">The Preview Of Best Room</span>
-						</div>
-						<div class="tabs_item">
-							<div class="our-rooms-single-img room-bg-4">
-							</div>
-							<span class="preview-item">The Preview Of Classic Room</span>
-						</div>
-						<div class="tabs_item">
-							<div class="our-rooms-single-img room-bg-5">
-							</div>
-							<span class="preview-item">The Preview Of Budget Room</span>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!-- End Our Rooms Area -->
 
-<!-- Start City View Area -->
+
+<!-- Inicio Área Vista de la Ciudad -->
 <section class="city-view-area ptb-100">
 	<div class="container">
 		<div class="city-wrap">
 			<div class="single-city-item owl-carousel owl-theme">
 				<div class="city-view-single-item">
 					<div class="city-content">
-						<span>The City View</span>
-						<h3>A charming view of the city town</h3>
-						<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur necessitatibus fugit eligendi accusantium vel quos debitis cupiditate ducimus placeat explicabo distinctio, consectetur eos animi, a voluptate delectus. Id, explicabo saepe Consequuntur</p>
+						<span>Vista de la Ciudad</span>
+						<h3>Una vista encantadora del centro de la ciudad</h3>
+						<p>Disfruta de una panorámica espectacular que abarca los principales puntos de referencia de la ciudad. Un lugar ideal para relajarse y admirar la arquitectura y la vida urbana.</p>
 
-						<p>The view onin wansis dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ad minim veniam, quis nostrud exercitation consectetur.</p>
+						<p>La vista desde este punto incluye lugares icónicos y es un área perfecta para quienes buscan capturar la esencia del dinamismo de la ciudad. Un paseo que mezcla modernidad y tradición.</p>
 					</div>
 				</div>
 				<div class="city-view-single-item">
 					<div class="city-content">
-						<span>The City View</span>
-						<h3>The charming view of the city</h3>
-						<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur necessitatibus fugit eligendi accusantium vel quos debitis cupiditate ducimus placeat explicabo distinctio, consectetur eos animi, a voluptate delectus. Id, explicabo saepe Consequuntur</p>
+						<span>Vista de la Ciudad</span>
+						<h3>Una vista encantadora de la ciudad</h3>
+						<p>Este lugar te permitirá experimentar la ciudad desde un ángulo único. Perfecto para turistas y locales que buscan una perspectiva distinta del entorno urbano.</p>
 
-						<p>The view onin wansis dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ad minim veniam, quis nostrud exercitation consectetur.</p>
+						<p>La vista ofrece una experiencia que une lo mejor del diseño arquitectónico y los paisajes urbanos, brindando un lugar de observación que no puedes perderte.</p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
-<!-- End City View Area -->
+<!-- Fin Área Vista de la Ciudad -->
 
-<!-- Start Exclusive Area -->
+<!-- Inicio Área Exclusiva -->
 <section class="exclusive-area pt-100 pb-70">
 	<div class="container">
 		<div class="section-title">
-			<span>Exclusive Offers</span>
-			<h2>You can get an exclusive offer </h2>
+			<span>Ofertas Exclusivas</span>
+			<h2>Puedes obtener una oferta exclusiva</h2>
 		</div>
 		<div class="row">
 			<div class="col-lg-6 col-md-6">
@@ -355,25 +274,25 @@
 						</div>
 						<div class="col-lg-6 pl-0">
 							<div class="exclusive-content">
-								<span class="title">Up To 30% Off</span>
-								<h3>Swimming for man</h3>
+								<span class="title">Hasta un 30% de Descuento</span>
+								<h3>Natación para hombres</h3>
 								<span class="review">
 									4.5
-									<a href="#">(432 Reviews)</a>
+									<a href="#">(432 Reseñas)</a>
 								</span>
-								<p>Swimming doller dolor sit aet odu tur adiing elitse</p>
+								<p>Disfruta de una experiencia de natación con instructores profesionales y equipo de última generación, con un descuento especial.</p>
 								<ul>
 									<li>
 										<i class="bx bx-time"></i>
-										Duration: 2Hours
+										Duración: 2 Horas
 									</li>
 									<li>
 										<i class="bx bx-target-lock"></i>
-										18+ years
+										Mayores de 18 años
 									</li>
 								</ul>
 								<a href="book-table.html" class="default-btn">
-									Book Online
+									Reserva en Línea
 									<i class="flaticon-right"></i>
 								</a>
 							</div>
@@ -389,25 +308,25 @@
 						</div>
 						<div class="col-lg-6 pl-0">
 							<div class="exclusive-content">
-								<span class="title">This Month Only</span>
-								<h3>$5 Breakfast package</h3>
+								<span class="title">Solo este mes</span>
+								<h3>Paquete de desayuno por $5</h3>
 								<span class="review">
 									5.0
-									<a href="#">(580 Reviews)</a>
+									<a href="#">(580 Reseñas)</a>
 								</span>
-								<p>Start $5 doller dolor sit aet odeu tur adiing elitse</p>
+								<p>Empieza tu día con un delicioso desayuno a un precio especial. Incluye platos frescos y saludables para empezar con energía.</p>
 								<ul>
 									<li>
 										<i class="bx bx-time"></i>
-										Duration: 2Hours
+										Duración: 2 Horas
 									</li>
 									<li>
 										<i class="bx bx-target-lock"></i>
-										18+ years
+										Mayores de 18 años
 									</li>
 								</ul>
 								<a href="book-table.html" class="default-btn">
-									Book Online
+									Reserva en Línea
 									<i class="flaticon-right"></i>
 								</a>
 							</div>
@@ -418,335 +337,275 @@
 		</div>
 	</div>
 </section>
-<!-- End Exclusive Area -->
+<!-- Fin Área Exclusiva -->
 
-<!-- Start Booking Area -->
+
+<!-- Inicio Área de Reservaciones -->
 <section class="bokking-area pb-70">
-	<div class="container">
-		<div class="section-title">
-			<span>Booking</span>
-			<h2>Direct booking benefits</h2>
-		</div>
+    <div class="container">
+        <div class="section-title">
+            <span>Reservaciones</span>
+            <h2>Beneficios de reservar directamente</h2>
+        </div>
 
-		<div class="row">
-			<div class="booking-col-2">
-				<div class="single-booking">
-					<a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-						<i class="book-icon flaticon-online-booking"></i>
-						<span class="booking-title">Free cost</span>
-						<h3>No booking fee</h3>
-					</a>
+        <div class="row">
+            <div class="booking-col-2">
+                <div class="single-booking">
+                    <a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                        <i class="book-icon flaticon-online-booking"></i>
+                        <span class="booking-title">Sin Costo</span>
+                        <h3>Sin tarifa de reserva</h3>
+                    </a>
 
-					<div class="modal fade" id="staticBackdrop">
-						<div class="modal-dialog modal-dialog-centered" role="document">
-							<div class="modal-content">
-								<div class="modal-header">
-									<h5 class="modal-title">No booking fee</h5>
-									<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-								</div>
+                    <div class="modal fade" id="staticBackdrop">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Sin tarifa de reserva</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+                                </div>
 
-								<div class="modal-body">
-									<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo neque eum tempore ducimus odit esse porro aperiam, delectus sunt omnis sed quod alias. Natus voluptate nemo explicabo fugiat quibusdam cupiditate quod alias. Natus voluptate.</p>
-								</div>
+                                <div class="modal-body">
+                                    <p>Al reservar directamente con nosotros, no pagas ninguna tarifa adicional por tu reservación. Disfruta de todos los beneficios sin costos ocultos.</p>
+                                </div>
 
-								<div class="modal-footer">
-									<a href="book-table.html" class="default-btn">
-										Book Now
-										<i class="flaticon-right"></i>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+                                <div class="modal-footer">
+                                    <a href="book-table.html" class="default-btn">
+                                        Reservar Ahora
+                                        <i class="flaticon-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-			<div class="booking-col-2">
-				<div class="single-booking">
-					<a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop-2">
-						<i class="book-icon flaticon-podium"></i>
-						<span class="booking-title">Free cost</span>
-						<h3>Best rate guarantee</h3>
-					</a>
+            <div class="booking-col-2">
+                <div class="single-booking">
+                    <a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop-2">
+                        <i class="book-icon flaticon-podium"></i>
+                        <span class="booking-title">Garantía</span>
+                        <h3>Mejor tarifa garantizada</h3>
+                    </a>
 
-					<div class="modal fade" id="staticBackdrop-2">
-						<div class="modal-dialog modal-dialog-centered" role="document">
-							<div class="modal-content">
-								<div class="modal-header">
-									<h5 class="modal-title">Best rate guarantee</h5>
-									<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-								</div>
+                    <div class="modal fade" id="staticBackdrop-2">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Mejor tarifa garantizada</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+                                </div>
 
-								<div class="modal-body">
-									<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo neque eum tempore ducimus odit esse porro aperiam, delectus sunt omnis sed quod alias. Natus voluptate nemo explicabo fugiat quibusdam cupiditate quod alias. Natus voluptate.</p>
-								</div>
+                                <div class="modal-body">
+                                    <p>Garantizamos que obtendrás la mejor tarifa posible al reservar directamente a través de nuestro sitio web.</p>
+                                </div>
 
-								<div class="modal-footer">
-									<a href="book-table.html" class="default-btn">
-										Book Now
-										<i class="flaticon-right"></i>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+                                <div class="modal-footer">
+                                    <a href="book-table.html" class="default-btn">
+                                        Reservar Ahora
+                                        <i class="flaticon-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-			<div class="booking-col-2">
-				<div class="single-booking">
-					<a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop-3">
-						<i class="book-icon flaticon-airport"></i>
-						<span class="booking-title">Free cost</span>
-						<h3>Reservations 24/7</h3>
-					</a>
+            <div class="booking-col-2">
+                <div class="single-booking">
+                    <a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop-3">
+                        <i class="book-icon flaticon-airport"></i>
+                        <span class="booking-title">Disponibilidad</span>
+                        <h3>Reservaciones 24/7</h3>
+                    </a>
 
-					<div class="modal fade" id="staticBackdrop-3">
-						<div class="modal-dialog modal-dialog-centered" role="document">
-							<div class="modal-content">
-								<div class="modal-header">
-									<h5 class="modal-title">Reservations 24/7</h5>
-									<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-								</div>
+                    <div class="modal fade" id="staticBackdrop-3">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Reservaciones 24/7</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+                                </div>
 
-								<div class="modal-body">
-									<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo neque eum tempore ducimus odit esse porro aperiam, delectus sunt omnis sed quod alias. Natus voluptate nemo explicabo fugiat quibusdam cupiditate quod alias. Natus voluptate.</p>
-								</div>
+                                <div class="modal-body">
+                                    <p>Nuestras reservas están disponibles las 24 horas del día, los 7 días de la semana, para que puedas planificar tu estancia en cualquier momento.</p>
+                                </div>
 
-								<div class="modal-footer">
-									<a href="book-table.html" class="default-btn">
-										Book Now
-										<i class="flaticon-right"></i>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+                                <div class="modal-footer">
+                                    <a href="book-table.html" class="default-btn">
+                                        Reservar Ahora
+                                        <i class="flaticon-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-			<div class="booking-col-2">
-				<div class="single-booking">
-					<a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop-4">
-						<i class="book-icon flaticon-slow"></i>
-						<span class="booking-title">Free cost</span>
-						<h3>High-speed Wi-Fi</h3>
-					</a>
+            <div class="booking-col-2">
+                <div class="single-booking">
+                    <a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop-4">
+                        <i class="book-icon flaticon-slow"></i>
+                        <span class="booking-title">Conexión Rápida</span>
+                        <h3>Wi-Fi de alta velocidad</h3>
+                    </a>
 
-					<div class="modal fade" id="staticBackdrop-4">
-						<div class="modal-dialog modal-dialog-centered" role="document">
-							<div class="modal-content">
-								<div class="modal-header">
-									<h5 class="modal-title">High-speed Wi-Fi</h5>
-									<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-								</div>
+                    <div class="modal fade" id="staticBackdrop-4">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Wi-Fi de alta velocidad</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+                                </div>
 
-								<div class="modal-body">
-									<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo neque eum tempore ducimus odit esse porro aperiam, delectus sunt omnis sed quod alias. Natus voluptate nemo explicabo fugiat quibusdam cupiditate quod alias. Natus voluptate.</p>
-								</div>
+                                <div class="modal-body">
+                                    <p>Disfruta de conexión Wi-Fi gratuita y de alta velocidad en todas nuestras instalaciones.</p>
+                                </div>
 
-								<div class="modal-footer">
-									<a href="book-table.html" class="default-btn">
-										Book Now
-										<i class="flaticon-right"></i>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+                                <div class="modal-footer">
+                                    <a href="book-table.html" class="default-btn">
+                                        Reservar Ahora
+                                        <i class="flaticon-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-			<div class="booking-col-2">
-				<div class="single-booking">
-					<a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop-5">
-						<i class="book-icon flaticon-coffee-cup-1"></i>
-						<span class="booking-title">Free cost</span>
-						<h3>Free breakfast</h3>
-					</a>
+            <div class="booking-col-2">
+                <div class="single-booking">
+                    <a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop-5">
+                        <i class="book-icon flaticon-coffee-cup-1"></i>
+                        <span class="booking-title">Desayuno Gratis</span>
+                        <h3>Desayuno incluido</h3>
+                    </a>
 
-					<div class="modal fade" id="staticBackdrop-5">
-						<div class="modal-dialog modal-dialog-centered" role="document">
-							<div class="modal-content">
-								<div class="modal-header">
-									<h5 class="modal-title">Free breakfast</h5>
-									<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-								</div>
+                    <div class="modal fade" id="staticBackdrop-5">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Desayuno incluido</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+                                </div>
 
-								<div class="modal-body">
-									<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo neque eum tempore ducimus odit esse porro aperiam, delectus sunt omnis sed quod alias. Natus voluptate nemo explicabo fugiat quibusdam cupiditate quod alias. Natus voluptate.</p>
-								</div>
+                                <div class="modal-body">
+                                    <p>Disfruta de un delicioso desayuno gratuito durante tu estancia con nosotros.</p>
+                                </div>
 
-								<div class="modal-footer">
-									<a href="book-table.html" class="default-btn">
-										Book Now
-										<i class="flaticon-right"></i>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+                                <div class="modal-footer">
+                                    <a href="book-table.html" class="default-btn">
+                                        Reservar Ahora
+                                        <i class="flaticon-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
-<!-- End Booking Area -->
+<!-- Fin Área de Reservaciones -->
 
-<!-- Start Restaurants Area -->
+<!-- Inicio Área de Restaurantes -->
 <section class="restaurants-area pb-100">
-	<div class="container-fluid p-0">
-		<div class="section-title">
-			<span>Restaurants</span>
-			<h2>The area we cover under Ecorik</h2>
-		</div>
+    <div class="container-fluid p-0">
+        <div class="section-title">
+            <span>Restaurantes</span>
+            <h2>Las áreas que cubrimos en Ecorik</h2>
+        </div>
 
-		<div class="restaurants-wrap owl-carousel owl-theme">
-			<div class="single-restaurants bg-1">
-				<i class="restaurants-icon flaticon-coffee-cup"></i>
-				<span>Restaurants</span>
-				<p>Restaurant wansis dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaua. Ut nipor incididuit might br minim veniam.</p>
-				<a href="#" class="default-btn">
-					Explore More
-					<i class="flaticon-right"></i>
-				</a>
-			</div>
-			<div class="single-restaurants bg-2">
-				<i class="restaurants-icon flaticon-swimming"></i>
-				<span>Swimming Pool</span>
-				<p>Restaurant wansis dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaua. Ut nipor incididuit might br minim veniam.</p>
-				<a href="#" class="default-btn">
-					Explore More
-					<i class="flaticon-right"></i>
-				</a>
-			</div>
-			<div class="single-restaurants bg-3">
-				<i class="restaurants-icon flaticon-speaker"></i>
-				<span>Conference Room</span>
-				<p>Restaurant wansis dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaua. Ut nipor incididuit might br minim veniam.</p>
-				<a href="#" class="default-btn">
-					Explore More
-					<i class="flaticon-right"></i>
-				</a>
-			</div>
-			<div class="single-restaurants bg-4">
-				<i class="restaurants-icon flaticon-podium"></i>
-				<span>Best Rate</span>
-				<p>Restaurant wansis dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaua. Ut nipor incididuit might br minim veniam.</p>
-				<a href="#" class="default-btn">
-					Explore More
-					<i class="flaticon-right"></i>
-				</a>
-			</div>
-		</div>
-	</div>
+        <div class="restaurants-wrap owl-carousel owl-theme">
+            <div class="single-restaurants bg-1">
+                <i class="restaurants-icon flaticon-coffee-cup"></i>
+                <span>Restaurantes</span>
+                <p>Descubre nuestros exclusivos restaurantes, donde disfrutarás de una experiencia gastronómica inolvidable.</p>
+                <a href="#" class="default-btn">
+                    Explorar Más
+                    <i class="flaticon-right"></i>
+                </a>
+            </div>
+            <div class="single-restaurants bg-2">
+                <i class="restaurants-icon flaticon-swimming"></i>
+                <span>Piscina</span>
+                <p>Relájate en nuestra piscina, disponible para todos los huéspedes, y disfruta de un ambiente tranquilo.</p>
+                <a href="#" class="default-btn">
+                    Explorar Más
+                    <i class="flaticon-right"></i>
+                </a>
+            </div>
+            <div class="single-restaurants bg-3">
+                <i class="restaurants-icon flaticon-speaker"></i>
+                <span>Sala de Conferencias</span>
+                <p>Nuestra sala de conferencias está equipada con tecnología moderna.</p>
+                <a href="#" class="default-btn">
+                    Explorar Más
+                    <i class="flaticon-right"></i>
+                </a>
+            </div>
+            <div class="single-restaurants bg-4">
+                <i class="restaurants-icon flaticon-podium"></i>
+                <span>Mejor Tarifa</span>
+                <p>Ofrecemos tarifas competitivas para todos nuestros servicios, asegurando la mejor relación calidad-precio.</p>
+                <a href="#" class="default-btn">
+                    Explorar Más
+                    <i class="flaticon-right"></i>
+                </a>
+            </div>
+        </div>
+    </div>
 </section>
-<!-- End Restaurants Area -->
+<!-- Fin Área de Restaurantes -->
 
-<!-- start Testimonials Area -->
+<!-- Inicio Área de Testimonios -->
 <section class="testimonials-area pb-100">
-	<div class="container">
-		<div class="section-title">
-			<span>Testimonials</span>
-			<h2>What customers say</h2>
-		</div>
-		<div class="testimonials-wrap owl-carousel owl-theme">
-			<div class="single-testimonials">
-				<ul>
-					<li>
-						<i class="bx bxs-star"></i>
-					</li>
-					<li>
-						<i class="bx bxs-star"></i>
-					</li>
-					<li>
-						<i class="bx bxs-star"></i>
-					</li>
-					<li>
-						<i class="bx bxs-star"></i>
-					</li>
-					<li>
-						<i class="bx bxs-star"></i>
-					</li>
-				</ul>
-				<h3>Excellent Room</h3>
-				<p>“Awesome yksum dolor sit ametco elit, sed do eiusmod tempor incididunt et md do eiusmoeiusmod tempor inte emamnsecacing eiusmoeiusmod”</p>
-				<div class="testimonials-content">
-					<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/testimonials/2.jpg" alt="Image">
-					<h4>Ayman Jenis</h4>
-					<span>CEO@Leasuely</span>
-				</div>
-			</div>
-			<div class="single-testimonials">
-				<ul>
-					<li>
-						<i class="bx bxs-star"></i>
-					</li>
-					<li>
-						<i class="bx bxs-star"></i>
-					</li>
-					<li>
-						<i class="bx bxs-star"></i>
-					</li>
-					<li>
-						<i class="bx bxs-star"></i>
-					</li>
-					<li>
-						<i class="bx bxs-star"></i>
-					</li>
-				</ul>
-				<h3>Excellent hotel</h3>
-				<p>“Awesome yksum dolor sit ametco elit, sed do eiusmod tempor incididunt et md do eiusmoeiusmod tempor inte emamnsecacing eiusmoeiusmod”</p>
-				<div class="testimonials-content">
-					<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/testimonials/3.jpg" alt="Image">
-					<h4>Ayman Jenis</h4>
-					<span>CEO@Leasuely</span>
-				</div>
-			</div>
-			<div class="single-testimonials">
-				<ul>
-					<li>
-						<i class="bx bxs-star"></i>
-					</li>
-					<li>
-						<i class="bx bxs-star"></i>
-					</li>
-					<li>
-						<i class="bx bxs-star"></i>
-					</li>
-					<li>
-						<i class="bx bxs-star"></i>
-					</li>
-					<li>
-						<i class="bx bxs-star"></i>
-					</li>
-				</ul>
-				<h3>Excellent Swimming</h3>
-				<p>“Awesome yksum dolor sit ametco elit, sed do eiusmod tempor incididunt et md do eiusmoeiusmod tempor inte emamnsecacing eiusmoeiusmod”</p>
-				<div class="testimonials-content">
-					<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/testimonials/1.jpg" alt="Image">
-					<h4>Ayman Jenis</h4>
-					<span>CEO@Leasuely</span>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!-- End Testimonials Area -->
+    <div class="container">
+        <div class="section-title">
+            <span>Testimonios</span>
+            <h2>Lo que nuestros clientes dicen</h2>
+        </div>
 
-<!-- End News Area -->
+        <div class="testimonials-wrap owl-carousel owl-theme">
+            <div class="single-testimonials">
+                <p>“La mejor experiencia en un hotel. Todo fue perfecto, desde la atención hasta las instalaciones. ¡Recomendado!”</p>
+                <h3>Juan Pérez</h3>
+                <span>Cliente</span>
+            </div>
+            <div class="single-testimonials">
+                <p>“Increíble servicio, el personal es muy atento y las habitaciones están impecables. Definitivamente volveremos.”</p>
+                <h3>María Gómez</h3>
+                <span>Cliente</span>
+            </div>
+            <div class="single-testimonials">
+                <p>“La piscina es maravillosa y la comida deliciosa. Una experiencia inolvidable para toda la familia.”</p>
+                <h3>Carlos Martínez</h3>
+                <span>Cliente</span>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Fin Área de Testimonios -->
+
+
+<!-- Fin Área de Noticias -->
 <section class="news-area pb-60">
 	<div class="container">
 		<div class="section-title">
-			<span>Our BLog</span>
-			<h2>News & articles updates </h2>
+			<span>Nuestro Blog</span>
+			<h2>Actualizaciones de noticias y artículos</h2>
 		</div>
 		<div class="row">
 			<div class="col-lg-4 col-md-6">
 				<div class="single-news">
 					<div class="news-img">
 						<a href="news-details.html">
-							<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/news/1.jpg" alt="Image">
+							<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/news/1.jpg" alt="Imagen">
 						</a>
 						<div class="dates">
 							<span>HOTEL</span>
@@ -763,16 +622,16 @@
 							<li>
 								<a href="#">
 									<i class="flaticon-conversation"></i>
-									Comment
+									Comentarios
 								</a>
 							</li>
 						</ul>
 						<a href="news-details.html">
-							<h3>Celebrating Decade Years Of Hotel In 2020</h3>
+							<h3>Celebrando una década de éxito en 2020</h3>
 						</a>
-						<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga veritatis veniam corrupti perferendis.</p>
+						<p>Nuestro hotel celebra diez años de servicio, ofreciendo experiencias inolvidables a nuestros huéspedes.</p>
 						<a class="read-more" href="news-details.html">
-							Read More
+							Leer más
 							<i class="flaticon-right"></i>
 						</a>
 					</div>
@@ -782,10 +641,10 @@
 				<div class="single-news">
 					<div class="news-img">
 						<a href="news-details.html">
-							<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/news/2.jpg" alt="Image">
+							<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/news/2.jpg" alt="Imagen">
 						</a>
 						<div class="dates">
-							<span>PRICE</span>
+							<span>PRECIO</span>
 						</div>
 					</div>
 					<div class="news-content-wrap">
@@ -799,16 +658,16 @@
 							<li>
 								<a href="#">
 									<i class="flaticon-conversation"></i>
-									Comment
+									Comentarios
 								</a>
 							</li>
 						</ul>
 						<a href="news-details.html">
-							<h3>A Perfect Day With Businessman At Ecorik Hotel</h3>
+							<h3>Un día perfecto para empresarios en el Hotel Ecorik</h3>
 						</a>
-						<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga veritatis veniam corrupti perferendis.</p>
+						<p>Descubre cómo nuestros servicios especializados han convertido al Hotel Ecorik.</p>
 						<a class="read-more" href="news-details.html">
-							Read More
+							Leer más
 							<i class="flaticon-right"></i>
 						</a>
 					</div>
@@ -818,10 +677,10 @@
 				<div class="single-news">
 					<div class="news-img">
 						<a href="news-details.html">
-							<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/news/1.jpg" alt="Image">
+							<img src=" <?php echo RUTA_PRINCIPAL . 'assets/principal'; ?>/img/news/1.jpg" alt="Imagen">
 						</a>
 						<div class="dates">
-							<span>STORE</span>
+							<span>TIENDA</span>
 						</div>
 					</div>
 					<div class="news-content-wrap">
@@ -835,16 +694,16 @@
 							<li>
 								<a href="#">
 									<i class="flaticon-conversation"></i>
-									Comment
+									Comentarios
 								</a>
 							</li>
 						</ul>
 						<a href="news-details.html">
-							<h3>Celebrating Decade Years Of Hotel In 2019</h3>
+							<h3>Celebrando diez años de servicio en 2019</h3>
 						</a>
-						<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga veritatis veniam corrupti perferendis.</p>
+						<p>El año pasado marcó nuestro décimo aniversario.</p>
 						<a class="read-more" href="news-details.html">
-							Read More
+							Leer más
 							<i class="flaticon-right"></i>
 						</a>
 					</div>
@@ -853,7 +712,8 @@
 		</div>
 	</div>
 </section>
-<!-- End News Area -->
+<!-- Fin Área de Noticias -->
+
 
 	<?php  echo include_once 'views/template/footer-principal.php' ;
 	if (!empty($_GET['respuesta'])) { ?>
