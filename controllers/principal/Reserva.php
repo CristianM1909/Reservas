@@ -28,7 +28,8 @@ class Reserva extends Controller
                     'habitacion' => $habitacion,
                 ];
                 if (empty($reserva)) {
-                    $data['mensaje'] = 'DISPONIBLE';
+                    //CREAR SESSION DE DE LA HABITACION
+                    $_SESSION['reserva'] =  $data['disponible'];                    $data['mensaje'] = 'DISPONIBLE';
                     $data['tipo'] = 'success';
                 } else {
                     $data['mensaje'] = 'NO DISPONIBLE';
@@ -75,7 +76,17 @@ class Reserva extends Controller
 
     public function pendiente() {
         $data['title'] = 'Reserva Pendiente';
+        $data['habitacion'] = [];
+        if (!empty($_SESSION['reserva'])) {
+           $data['habitacion'] = $this->model->getHabitacion($_SESSION['reserva']['habitacion']);
+        }
             $this->views->getView('principal/clientes/reservas/pendiente', $data); 
 
+    }
+
+    public function registrarReserva()  {
+        $datos = file_get_contents('php://input');
+        $array = json_decode($datos, true);
+        print_r($array);
     }
 }
